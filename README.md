@@ -31,7 +31,7 @@ VoiceLock is an advanced AI-based security system designed to authenticate users
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/VoiceLock-AI.git](https://github.com/YOUR_USERNAME/VoiceLock-AI.git)
+    git clone https://github.com/nishantkumar-AIML/VoiceLock-AI.git
     cd VoiceLock-AI
     ```
 
