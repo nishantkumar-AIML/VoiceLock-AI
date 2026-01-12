@@ -40,9 +40,9 @@ VoiceLock is an advanced AI-based security system designed to authenticate users
     pip install -r requirements.txt
     ```
 
-3.  Run the Server:
+3.  Run the ai:
     ```bash
-    python server.py
+    python smart_security.py
     ```
 
 ## 🔮 Future Scope
