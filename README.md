@@ -47,6 +47,7 @@ VoiceLock is an advanced AI-based security system designed to authenticate users
 
 ## 🔮 Future Scope
 - Integration with Android App (Vani).
+-telegram link:https://t.me/TradeX_nk
 - Converting the model to TFLite for offline mobile usage.
 - Adding "Wake Word" detection (e.g., "Hey Jarvis").
 
